@@ -7,19 +7,19 @@ var data = [
     
         {name: "Cloud's Rest", 
         image: "https://farm4.staticflickr.com/3498/3905765143_446dcd0e2c.jpg",
-        description: "blah blah blah"    
+        description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."    
             
         },
         
         {name: "Big Sky", 
         image: "https://farm9.staticflickr.com/8442/7962474612_bf2baf67c0.jpg",
-        description: "blah blah blah"    
+        description: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."    
             
         },
         
         {name: "Carolina Beach", 
         image: "https://farm4.staticflickr.com/3872/14435096036_39db8f04bc.jpg",
-        description: "blah blah blah"    
+        description: "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."    
             
         }
     
